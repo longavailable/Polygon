@@ -21,8 +21,8 @@
 {"source":4,"target":5,"value":2},
 {"source":3,"target":6,"value":2},
 {"source":4,"target":6,"value":2},
-{"source":5,"target":7"value":2},
-{"source":6,"target":7"value":2},
-{"source":5,"target":8"value":2},
-{"source":6,"target":8"value":2}
+{"source":5,"target":7,"value":2},
+{"source":6,"target":7,"value":2},
+{"source":5,"target":8,"value":2},
+{"source":6,"target":8,"value":2}
 ]}
