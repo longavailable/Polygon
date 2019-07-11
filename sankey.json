@@ -1,19 +1,173 @@
 {
 "nodes":[
-{"node":0,"name":"node0"},
-{"node":1,"name":"node1"},
-{"node":2,"name":"node2"},
-{"node":3,"name":"node3"},
-{"node":4,"name":"node4"},
-{"node":5,"name":"node5"}
+  {
+    "Node": 1,
+    "Name": "A1"
+  },
+  {
+    "Node": 2,
+    "Name": "A2"
+  },
+  {
+    "Node": 3,
+    "Name": "A3"
+  },
+  {
+    "Node": 4,
+    "Name": "B1"
+  },
+  {
+    "Node": 5,
+    "Name": "B2"
+  },
+  {
+    "Node": 6,
+    "Name": "B3"
+  },
+  {
+    "Node": 7,
+    "Name": "C1"
+  },
+  {
+    "Node": 8,
+    "Name": "C2"
+  },
+  {
+    "Node": 9,
+    "Name": "C3"
+  },
+  {
+    "Node": 10,
+    "Name": "D1"
+  },
+  {
+    "Node": 11,
+    "Name": "D2"
+  },
+  {
+    "Node": 12,
+    "Name": "D3"
+  }
 ],
 "links":[
-{"source":0,"target":2,"value":2},
-{"source":1,"target":2,"value":2},
-{"source":1,"target":3,"value":2},
-{"source":0,"target":4,"value":2},
-{"source":2,"target":3,"value":2},
-{"source":2,"target":4,"value":2},
-{"source":3,"target":4,"value":4},
-{"source":4,"target":5,"value":2}
+  {
+    "Source": 1,
+    "Target": 4,
+    "Volume": 50
+  },
+  {
+    "Source": 2,
+    "Target": 5,
+    "Volume": 30
+  },
+  {
+    "Source": 1,
+    "Target": 6,
+    "Volume": 20
+  },
+  {
+    "Source": 2,
+    "Target": 4,
+    "Volume": 60
+  },
+  {
+    "Source": 2,
+    "Target": 5,
+    "Volume": 20
+  },
+  {
+    "Source": 2,
+    "Target": 6,
+    "Volume": 20
+  },
+  {
+    "Source": 3,
+    "Target": 4,
+    "Volume": 80
+  },
+  {
+    "Source": 3,
+    "Target": 5,
+    "Volume": 10
+  },
+  {
+    "Source": 3,
+    "Target": 6,
+    "Volume": 10
+  },
+  {
+    "Source": 4,
+    "Target": 7,
+    "Volume": 100
+  },
+  {
+    "Source": 4,
+    "Target": 8,
+    "Volume": 50
+  },
+  {
+    "Source": 4,
+    "Target": 9,
+    "Volume": 40
+  },
+  {
+    "Source": 5,
+    "Target": 7,
+    "Volume": 20
+  },
+  {
+    "Source": 5,
+    "Target": 8,
+    "Volume": 40
+  },
+  {
+    "Source": 6,
+    "Target": 9,
+    "Volume": 50
+  },
+  {
+    "Source": 7,
+    "Target": 10,
+    "Volume": 20
+  },
+  {
+    "Source": 7,
+    "Target": 11,
+    "Volume": 70
+  },
+  {
+    "Source": 7,
+    "Target": 12,
+    "Volume": 30
+  },
+  {
+    "Source": 8,
+    "Target": 10,
+    "Volume": 30
+  },
+  {
+    "Source": 8,
+    "Target": 11,
+    "Volume": 30
+  },
+  {
+    "Source": 8,
+    "Target": 12,
+    "Volume": 30
+  },
+  {
+    "Source": 9,
+    "Target": 10,
+    "Volume": 40
+  },
+  {
+    "Source": 9,
+    "Target": 11,
+    "Volume": 30
+  },
+  {
+    "Source": 9,
+    "Target": 12,
+    "Volume": 20
+  }
 ]}
