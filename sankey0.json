@@ -8,8 +8,8 @@
 {"node":5,"name":"C1"},
 {"node":6,"name":"C2"},
 {"node":7,"name":"C3"},
-{"node":8,"name":"D1"}
-{"node":9,"name":"D2"}
+{"node":8,"name":"D1"},
+{"node":9,"name":"D2"},
 {"node":10,"name":"D3"}
 ],
 "links":[
