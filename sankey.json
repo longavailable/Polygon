@@ -1,5 +1,7 @@
 {
 "nodes":[
+  
+  {    "node": 0,    "name": "H0"  },
   {    "node": 1,    "name": "A1"  },
   {    "node": 2,    "name": "A2"  },
   {    "node": 3,    "name": "A3"  },
@@ -14,6 +16,9 @@
   {    "node": 12,    "name": "D3"  }
 ],
 "links":[
+  {    "source": 0,    "target": 1,    "value": 5  },
+  {    "source": 0,    "target": 2,    "value": 5  },
+  {    "source": 0,    "target": 3,    "value": 5  },
   {    "source": 1,    "target": 4,    "value": 5  },
   {    "source": 2,    "target": 5,    "value": 3  },
   {    "source": 1,    "target": 6,    "value": 2  },
