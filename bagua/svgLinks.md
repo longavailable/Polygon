@@ -3,6 +3,9 @@
 See <a href="https://en.wikipedia.org/wiki/File:Bagua-name-earlier.svg">
         https://en.wikipedia.org/wiki/File:Bagua-name-earlier.svg
      </a>
+     <p>
+        天地定位，山澤通氣，雷風相薄，水火不相射，八卦相錯。
+     </P>
 ### King Wen "Later Heaven" bagua arrangement/文王八卦/后天八卦
 See <a href="https://en.wikipedia.org/wiki/File:Bagua-name-later.svg">
         https://en.wikipedia.org/wiki/File:Bagua-name-later.svg
