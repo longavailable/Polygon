@@ -1,13 +1,13 @@
 # svgs for Bagua
-# Fuxi "Earlier Heaven" bagua arrangement/伏羲八卦/先天八卦/伏羲先天八卦图 
+## Fuxi "Earlier Heaven" bagua arrangement/伏羲八卦/先天八卦/伏羲先天八卦图 
 See <a href="https://en.wikipedia.org/wiki/File:Bagua-name-earlier.svg">
         https://en.wikipedia.org/wiki/File:Bagua-name-earlier.svg
      </a>
-# King Wen "Later Heaven" bagua arrangement
+## King Wen "Later Heaven" bagua arrangement/文王八卦/后天八卦
 See <a href="https://en.wikipedia.org/wiki/File:Bagua-name-later.svg">
         https://en.wikipedia.org/wiki/File:Bagua-name-later.svg
     </a>
-# Yin-yang sysmbol/taijitu/太极图/阴阳鱼
+## Yin-yang sysmbol/taijitu/太极图/阴阳鱼
 See black edge <a href="https://en.wikipedia.org/wiki/File:Yin_yang.svg">
         https://en.wikipedia.org/wiki/File:Yin_yang.svg
     </a>
