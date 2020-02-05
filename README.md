@@ -10,5 +10,8 @@ Followings are in GeoJSON format:
 Followings are in ESRI-JSON format:
 [alexandria.json](alexandria.json)
 
-gmap test:
-[gmaptest](gmaps_test.html)
+Google Maps API test:
+[Google Maps JavaScripts API test](googleMapsJsAPI_test.html)
+
+OpenStreetMap API test:
+[openstreetmap API test](openstreetapi_test.html)
