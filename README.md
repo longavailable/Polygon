@@ -8,4 +8,4 @@ afg.json
 greencities_export.geojson
 
 Followings are in ESRI-JSON format:
-/alexandria.json
+[alexandria.json](alexandria.json)
