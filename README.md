@@ -4,8 +4,8 @@ There is coversion tool in github.
 https://github.com/Esri/arcgis-to-geojson-utils
 
 Followings are in GeoJSON format:
-afg.json
-greencities_export.geojson
+[afg.json](afg.json)
+[greencities_export.geojson](greencities_export.geojson)
 
 Followings are in ESRI-JSON format:
 [alexandria.json](alexandria.json)
