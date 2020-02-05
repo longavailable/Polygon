@@ -9,3 +9,6 @@ Followings are in GeoJSON format:
 
 Followings are in ESRI-JSON format:
 [alexandria.json](alexandria.json)
+
+gmap test:
+[gmaptest](gmaps_test.html)
